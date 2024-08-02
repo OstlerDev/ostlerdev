@@ -2,6 +2,8 @@
 ![Sky's GitHub stats](https://github-readme-stats.vercel.app/api?username=ostlerdev&count_private=true&show_icons=true&theme=noctis_minimus)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ostlerdev&layout=compact&theme=noctis_minimus)
 
+[View my Github Ranking details!](https://metrics.lecoq.io/insights?user=OstlerDev)
+
 <!--
 **OstlerDev/ostlerdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
